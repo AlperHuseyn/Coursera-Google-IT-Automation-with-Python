@@ -3,7 +3,7 @@
 """
 Iterate through each image to rotate, resize, and save image in a different format.
 
-Author: AlperHuseyn:wq:w
+Author: AlperHuseyn
 Date: 29/03/2023
 """
 
